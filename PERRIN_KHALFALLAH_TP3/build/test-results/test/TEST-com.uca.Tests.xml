@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.uca.Tests" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-05-14T09:33:54" hostname="tracass-lenovo" time="0.494">
+  <properties/>
+  <testcase name="testConvertArabRoman()" classname="com.uca.Tests" time="0.087"/>
+  <testcase name="testFloatValue()" classname="com.uca.Tests" time="0.003"/>
+  <testcase name="testConvertRomanArab()" classname="com.uca.Tests" time="0.002"/>
+  <testcase name="testPair()" classname="com.uca.Tests" time="0.013"/>
+  <testcase name="testTout()" classname="com.uca.Tests" time="0.296"/>
+  <testcase name="testToString()" classname="com.uca.Tests" time="0.002"/>
+  <testcase name="testPrefixes()" classname="com.uca.Tests" time="0.006"/>
+  <testcase name="testRepitition()" classname="com.uca.Tests" time="0.005"/>
+  <testcase name="testLongValue()" classname="com.uca.Tests" time="0.006"/>
+  <testcase name="testIntValue()" classname="com.uca.Tests" time="0.003"/>
+  <testcase name="testInterval()" classname="com.uca.Tests" time="0.029"/>
+  <testcase name="testNegative()" classname="com.uca.Tests" time="0.003"/>
+  <testcase name="testDoubleValue()" classname="com.uca.Tests" time="0.008"/>
+  <system-out><![CDATA[preuve de test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
